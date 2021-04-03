@@ -10,8 +10,8 @@ In the meantime, I decided to teach myself Python, C, machine learning (both wit
 and computer architecture. A bigger project I am considering is making my own quadruped robot, stylistically similar to 
 Boston Dynamics's Spot robot. You can check out my progress in the repo if I ever find the time to get started.
 
-You can check out some more stuff I've done on my resume. If you have any questions about my work or just want to chat,
-you can shoot me an email at jackdibachi@gmail.com or DM me on Twitter @jackdibachi if that's more your thing. 
+You can check out some more stuff I've done on my resume, under repo 👉dibachi. If you have any questions about my work or just want to chat,
+you can connect with me on LinkedIn or DM me on Twitter if that's more your thing. 
 
 Later!
 
