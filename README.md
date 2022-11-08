@@ -1,11 +1,9 @@
-Hello, world! I'm Jack Dibachi, a mechanical engineer, robot enthusiast, and Californian. I made my Github account
+Hello, world! I'm Jack Dibachi, a robotics engineer based in California. I made my Github account
 to serve as both file backup and as a sort of portfolio for my past and present projects. 
 
-I finished my BS in Mechanical Engineering at UC Santa Barbara in June 2020. I've done a bunch of cool projects and taken many interesting electives, but I took a particular liking to robotics. Some of my old reports and algorithms are in their respective repositories on here. I am also self-taught in Python, C/C++, and machine learning algorithms in MATLAB and TensorFlow.
+I got my BS in Mechanical Engineering from UC Santa Barbara, where I first became interested in robotics, and the many disciplines which come together to make them. Before gravitating towards robotic systems, I worked in a variety of internships and student teams involved with rocketry, magnetic levitation, high energy physics, metrology, and solar energy storage. Some of my old reports and algorithms are in their respective repositories on here.   
 
-Recently I finished working with Simpl Global, a solar energy storage startup based out of the Greater Sacramento area. My responsibilities varied dramatically from day to day, but I primarily worked on PCB design, mechanical component design, and embedded system programming. 
-
-I've now started my first year as a Master's student at Stanford studying Robotics and Controls. Though I'm enrolled through the Mechanical Engineering department, my coursework is predominantly in reinforcement learning, embedded software tools such as ROS, and the control systems that make robotics possible.
+I am now finishing my MS in Robotics in the Mechanical Engineering department at Stanford. I not only learned new techniques and algorithms for designing and controlling robots, but I also gained extensive project experience integrating hardware, software, and electronics to create functional robotic systems. 
 
 You can check out some more stuff I've done on my resume and in my portfolio at 👉dibachi/portfolio. Feel free to connect with me on LinkedIn if you want to chat. 
 
